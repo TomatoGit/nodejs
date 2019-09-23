@@ -1,2 +1,4 @@
 #webstorm
 .idea
+#vscode-node
+package.json
