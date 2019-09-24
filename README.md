@@ -10,5 +10,6 @@
     - #### [map](TestProjects/Map/map.js)
 - ### [node-stream](TestProjects/node-stream)
     - #### [fs](TestProjects/node-stream/fs)
+- ### [pub-sub](TestProjects/pub-sub/)
 - ### [socketEvent](TestProjects/socketEvent)
     - #### [socket](TestProjects/socketEvent/socket.js)
