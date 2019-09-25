@@ -12,7 +12,7 @@
     - #### [fs](TestProjects/node-stream/fs)
 - ### [NodeWebProjects](TestProjects/NodeWebProjects/)
     - #### [FirstProjects](TestProjects/NodeWebProjects/FirstProjects/)
-        - ##### [mysql-test](TestProjects/NodeWebProjects/FirstProjects/mysql-test.js)
+        - ##### [mysql-test](TestProjects/NodeWebProjects/FirstProject/mysql-test.js)
 - ### [pub-sub](TestProjects/pub-sub/)
 - ### [socketEvent](TestProjects/socketEvent)
     - #### [socket](TestProjects/socketEvent/socket.js)
