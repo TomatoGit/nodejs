@@ -2,6 +2,6 @@
 .idea
 #vscode-node
 package.json
-node_modiles
+node_modiles/
 #node_packages
 package-lock.json
